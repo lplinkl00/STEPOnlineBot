@@ -6,3 +6,5 @@ To train the chatbot upload the PDF files into the docs folder and run main.py, 
 
 ##Running
 main.py should launch a link from gradio
+
+To run this on the server: https://gradio.app/running-gradio-on-your-web-server-with-nginx/
